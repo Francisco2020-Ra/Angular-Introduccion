@@ -25,9 +25,10 @@ export class MainPageComponent implements OnInit {
 
   agregar(){
 
-    console.log("con ngSubmit el navegador no se refresca")
+    console.log(this.nuevo)
     
 
   }
+
 
 }
